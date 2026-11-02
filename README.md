@@ -30,7 +30,7 @@ const eric = {
 
 - 🎯 &nbsp;Frontend architect who thinks in components and ships in pixels
 - 🕹️ &nbsp;I build games in Javascript, like [this one](https://skeleathon-poki-demo.vercel.app)
-- 🌍 &nbsp;Created [Kodebucha](https://kodebucha.vercel.app) — an online code editor that runs entirely on the browser.
+- 🌍 &nbsp;Created [JavaRunner](https://javarunner.online) — the fastest way to run Java code online.
 - 🐱 &nbsp;Powered by coffee and cats
 
 ---
